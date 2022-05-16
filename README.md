@@ -1,6 +1,6 @@
 My static HTML/CSS projects/pages
 
-Made with pute HTML and CSS
+Made with pure HTML and CSS
 
 Projects:
 1. My take on: https://themes.muffingroup.com/be/handmade/
